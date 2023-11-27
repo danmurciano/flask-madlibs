@@ -15,7 +15,7 @@ class Story:
 
         >>> ans = {"verb": "eat", "noun": "mango"}
         >>> s.generate(ans)
-        'I love to eat a good mango.'
+        'I love to eat a good piece of mango.'
     """
 
     def __init__(self, words, text):
